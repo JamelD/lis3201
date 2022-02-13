@@ -5,20 +5,20 @@
 
 *Course Work Links:*
 
-1. [Assignment 1 README.md](assignment1/README.md "My Assignment 1 README.md file")
+1. [Research Instrument README.md](instrument/README.md "My Research Instrument README.md file")
     - 
 
-2. [Environmental Scan README.md](assignment2/README.md "My Assignment 2 README.md file")
+2. [Environmental Scan README.md](scan/README.md "My Environmental Scan README.md file")
     - 
 
-3. [Group Environmental Scan README.md](assignment3/README.md "My Assignment 3 README.md file")
+3. [Group Environmental Scan README.md](gscan/README.md "My Group Environmental Scan README.md file")
     - 
 
-4. [Research Progress Report README.md](assignment4/README.md "My Assignment 4 README.md file")
+4. [Research Progress Report README.md](progress/README.md "My Research Progress Report README.md file")
     - 
 
-5. [Poster README.md](assignment5/README.md "My Assignment 5 README.md file")
+5. [Poster README.md](poster/README.md "My Poster README.md file")
     - 
 
-6. [Final Report README.md](assignment6/README.md "My Assignment 6 README.md file")
+6. [Final Report README.md](final/README.md "My Final Report README.md file")
     - 
