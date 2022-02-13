@@ -1,4 +1,5 @@
 # LIS 3201 - Research and Data Analysis
+
 ## Jamel Douglas
 
 ### LIS 3201 Requirements:
@@ -6,7 +7,8 @@
 *Course Work Links:*
 
 1. [Research Instrument README.md](instrument/README.md "My Research Instrument README.md file")
-    - 
+    - Develop reliable data collection instruments and procedures.
+    - Discuss issues related to the ethical collection and use of research data. 
 
 2. [Environmental Scan README.md](scan/README.md "My Environmental Scan README.md file")
     - You will create an environmental scan. To do this, you will select important publications on the chosen topic and synthesize the content. This is an opportunity to build your skills of searching, reading, reviewing the sources, and synthesizing the contents for the environmental scan section in your final research paper. At a later date, all of the individual submissions will be combined for the group submission.
