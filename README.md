@@ -14,7 +14,7 @@
     - You will create an environmental scan. To do this, you will select important publications on the chosen topic and synthesize the content. This is an opportunity to build your skills of searching, reading, reviewing the sources, and synthesizing the contents for the environmental scan section in your final research paper. At a later date, all of the individual submissions will be combined for the group submission.
 
 3. [Group Environmental Scan README.md](gscan/README.md "My Group Environmental Scan README.md file")
-    - 
+    - Environmental Scan is a synthesized statement to summarize previous research studies or background of your problem. Previously, every group was asked to develop the structure (2-4 subsections) of your Environmental Scan. And in your Individual Environmental Scan assignment, everyone in your team came up with some syntheses to address one chosen subsection.
 
 4. [Research Progress Report README.md](progress/README.md "My Research Progress Report README.md file")
     - 
