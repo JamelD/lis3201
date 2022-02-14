@@ -17,7 +17,7 @@
     - Environmental Scan is a synthesized statement to summarize previous research studies or background of your problem. Previously, every group was asked to develop the structure (2-4 subsections) of your Environmental Scan. And in your Individual Environmental Scan assignment, everyone in your team came up with some syntheses to address one chosen subsection.
 
 4. [Research Progress Report README.md](progress/README.md "My Research Progress Report README.md file")
-    - 
+    - Submit a research progress report.
 
 5. [Poster README.md](poster/README.md "My Poster README.md file")
     - 
