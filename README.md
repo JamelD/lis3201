@@ -23,4 +23,4 @@
     - 
 
 6. [Final Report README.md](final/README.md "My Final Report README.md file")
-    - 
+    - In the final report, you must revise the previous assignments that were completed throughout the semester based on the feedback given by the instructor and create a report document. 
