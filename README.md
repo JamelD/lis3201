@@ -20,7 +20,7 @@
     - Submit a research progress report.
 
 5. [Poster README.md](poster/README.md "My Poster README.md file")
-    - 
+    - Create professional reports and visualizations that effectively communicate research findings to different stakeholders.
 
 6. [Final Report README.md](final/README.md "My Final Report README.md file")
     - In the final report, you must revise the previous assignments that were completed throughout the semester based on the feedback given by the instructor and create a report document. 
